@@ -33,3 +33,7 @@ console.log(moi.age)
 moi.ville = "Paris";
 console.log(moi.ville)
 console.log(moi)
+
+const notes = [12, 15, 9, 18];
+console.log(notes[0]); // Affiche 12 console.log(notes[1]); // Affiche 15
+console.log(notes.length); // Affiche 4
